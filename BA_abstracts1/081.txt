@@ -1,0 +1,1 @@
+"This is a short review of Monte Carlo methods for approximating filter distributions in state space models. The basic algorithm and different strategies to reduce imbalance of the weights are discussed. Finally, methods for more difficult problems like smoothing and parameter estimation and applications outside the state space model context are presented."
