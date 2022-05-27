@@ -1,0 +1,1 @@
+"The paper develops a class of James-Stein estimators that dominates the sample mean under sequential sampling schemes of Ghosh, Sinha and Mukhopadhyay (1976). Asymptotic risk expansions of the sample mean and James-Stein estimators are provided up to the second-order term. Also, a Monte Carlo study is undertaken to compare the risks of these estimators."

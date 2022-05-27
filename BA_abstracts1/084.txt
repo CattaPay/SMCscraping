@@ -1,0 +1,1 @@
+"A sequential procedure for estimating the mean of an exponential distribution is proposed. It is shown to perform well for large values of the mean, and the results of a Monte Carlo study indicate that it also performs well for moderate values of the mean."
