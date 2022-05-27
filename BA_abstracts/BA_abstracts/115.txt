@@ -1,0 +1,1 @@
+"Importance sampling, particularly sequential and adaptive importance sampling, have emerged as competitive simulation techniques to Markov-chain Monte-Carlo techniques. We compare importance sampling and the Metropolis algorithm as two ways of changing the output of a Markov chain to get a different stationary distribution."
